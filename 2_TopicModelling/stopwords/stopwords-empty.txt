@@ -29,4 +29,7 @@ time
 make
 it'
 it's
-
+good
+plot
+bad
+people
